@@ -1,5 +1,5 @@
 # IMAD5111-Assignment-2 Christopher Prinsloo.
-Please note that the project is in a zip file due to the fact that Github does not allow me to submit a project this large, and I have tried almost everything to scale it down, but I was still unsuccesfull. Below the report I attached images showing the problem.
+Please note that the project is in a zip file due to the fact that Github does not allow me to submit a project this large, and I have tried almost everything to scale it down, but I was still unsuccesfull.
 
 1. Introduction
 The Tamagotchi App is a delightful virtual pet application designed to bring joy and entertainment to users of all ages. Similar to the popular Talking Tom app, our Talkative Buddy features a cute and lovable character that responds to user interactions in amusing ways.
@@ -34,3 +34,6 @@ User Interaction: Once the app opens users will be greeted by their pet and a cl
 Customization: Currently there are no customizations to be made for the users pet.
 5. Conclusion
 The Tamagotchi app combines nostalgia with modern interactivity, making it a delightful experience for users. By following the utilization steps, users can enjoy their virtual pet and keep it happy and healthy!
+
+Here is the youtube link for a quick run through of my app. https://youtu.be/Y3DAL2nwD7Q
+
